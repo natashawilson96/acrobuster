@@ -1,22 +1,6 @@
 {
-  "name": "acrobuster",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/natashawilson96/acrobuster.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/natashawilson96/acrobuster/issues"
-  },
-  "homepage": "https://github.com/natashawilson96/acrobuster#readme",
   "dependencies": {
+    "@slack/bolt": "^3.12.2",
     "dotenv": "^16.0.3"
   }
 }
